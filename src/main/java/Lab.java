@@ -15,6 +15,7 @@ public class Lab {
      * @return "Hello, world!"
      */
     public String sayHello(){
-        return "Hello, world!";
+        String s1="Hello, world!";
+        return s1;
     }
 }
